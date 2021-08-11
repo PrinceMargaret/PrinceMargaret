@@ -59,8 +59,7 @@ I'm Prince Agrahari a Full stack web developer, a quick learner and a software e
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Shashwat-Sahu.Shashwat-Sahu)
 
 
-<!-- #### Github Pull Requests
-[![GitHub pull-requests](https://img.shields.io/github/issues-pr/Shashwat-Sahu/insta-clone.svg)](https://GitHub.com/Shashwat-Sahu/insta-clone/pull/) -->
+
 
 
 <details>
@@ -77,6 +76,7 @@ I love sharing knowledge and how people contribute to open source. Curiosity liv
 
 <!--START_SECTION:waka-->
 ```text
+Python       98 hrs 14 mins ███████████████████░░░░░░   78.20 % 
 JavaScript   34 hrs 19 mins █████████████░░░░░░░░░░░░   47.20 % 
 HTML         15 hr 50 mins  ██████████░░░░░░░░░░░░░░░   21.80 % 
 CSS          10 hr 27 mins  ███████░░░░░░░░░░░░░░░░░░   13.82 % 
