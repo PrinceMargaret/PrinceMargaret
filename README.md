@@ -11,8 +11,7 @@ I'm Prince Agrahari a Full stack web developer, a quick learner and a software e
 <!-- - 🔭 I’m currently working at @Toptal -->
 - :computer: Most used line of code `git commit -m "First Commit"`
 - 🤔 I’m looking for help with Outstanding Video ideas.
-- 📫 How to reach me: shashwatsahu25@gmail.com.
-- 😄 Pronouns: Xprose, shashwat_pro.
+- 📫 How to reach me: princeagrahari2000@gmail.com.
 - ⚡ Fun fact: I am a sketch artist.
 
 #### Top Technologies
@@ -51,7 +50,7 @@ I'm Prince Agrahari a Full stack web developer, a quick learner and a software e
 
 #### Bizness
 - :paperclip: [My Resume/CV](https://github.com/Shashwat-Sahu/Shashwat-Sahu/blob/master/resumes/resume%20v1.0.pdf)
-- :email: shashwatsahu25@gmail.com
+- :email: princeagrahari2000@gmail.com
 
 
 
