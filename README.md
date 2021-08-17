@@ -56,7 +56,7 @@ I'm Prince Agrahari a Full stack web developer, a quick learner and a software e
 
 #### Profile Visits 
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=Shashwat-Sahu.Shashwat-Sahu)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=PrinceMargaret.PrinceMargaret)
 
 
 
