@@ -49,7 +49,7 @@ I'm Prince Agrahari a Full stack web developer, a quick learner and a software e
 <br />
 
 #### Bizness
-- :paperclip: [My Resume/CV](Cv.pdf)
+- :paperclip: [My Resume/CV](Cv.pd)
 - :email: princeagrahari2000@gmail.com
 
 
