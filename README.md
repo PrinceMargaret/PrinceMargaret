@@ -4,7 +4,7 @@ I'm Prince Agrahari a Full stack web developer, a quick learner and a software e
 
 :mailbox: Reach me out!
 
- [![Linkedin Badge](https://img.shields.io/badge/-prince-agrahari)](https://www.linkedin.com/in/prince-agrahari/) [![Mail Badge](https://img.shields.io/badge/-@margaretuser-c0392b?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/margaretuser/) [![Mail Badge](https://img.shields.io/badge/-princeagrahari2000@gmail.com-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:princeagrahari2000@gmail.com)
+ [![Linkedin Badge](https://img.shields.io/badge/-prince-agrahari?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prince-agrahari/) [![Mail Badge](https://img.shields.io/badge/-@margaretuser-c0392b?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/margaretuser/) [![Mail Badge](https://img.shields.io/badge/-princeagrahari2000@gmail.com-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:princeagrahari2000@gmail.com)
 
 <!-- TODO: Add last video link -->
 
